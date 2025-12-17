@@ -11,7 +11,7 @@ st.set_page_config(
 with st.sidebar:
     st.image("assets/3.jpg", width=180)
     st.markdown("## Pesquisa de Probabilidade e Estatística")
-    st.markdown("**Discente:** Pedro Vinicius Barbosa Araújo")
+    st.markdown("**Discentes:** Pedro Vinicius Barbosa Araújo e Victor Eduardo Morais")
     st.markdown("**Professor:** Jailson de Araujo Rodrigues")
     st.markdown("**Instituição:** Instituto Federal da Bahia")
     st.markdown("---")
